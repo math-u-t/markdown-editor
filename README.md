@@ -2,7 +2,7 @@
 
 このツールは、ブラウザで動作するリアルタイムマークダウンエディターです。
 
-使用は[こちら](https://sphylics.github.io/markdown-editor/)からアクセスできます。
+使用は[こちら](https://math-u-t.github.io/markdown-editor/)からアクセスできます。
 
 # 注意事項 #
 
